@@ -8,5 +8,7 @@
 </head>
 <body>
     <h1>Soy el Contacto</h1>
+    <h1>ahola soy una ,inea</h1>
+    <h2>Hola soy otra linea </h2>
 </body>
 </html>

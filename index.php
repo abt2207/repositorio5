@@ -9,5 +9,6 @@
 <body>
     <h1>Soy el Index</h1>
     <h1>Soy el Index</h1>
+    <h2>Soy otra linea</h2>
 </body>
 </html>
